@@ -15,8 +15,8 @@ WebAssembly
 
 2.Explain a project that you have built?
 
-Ans. I have build shopper stop project during the constructive project of masai school, which is used to sell different products, where i have played front-end role,
-i have used html css and js in the project and features i have made is Grid display of product page, Payment page gateway, Wishlist feature
+Ans. I have build Tanishq project during the constructive project of masai school, which is used to sell different products, where i have played front-end role,
+i have used html css and js in the project and features. My task is creating Login page and Signup page.
 
 3.Whats something exciting that you have built?
 
